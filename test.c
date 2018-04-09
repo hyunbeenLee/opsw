@@ -14,6 +14,7 @@ int main( void ){
 		for( j = 0;  j <= 20 - i; j++ ){ printf(" ");}
 		for( j = 0; j <= i * 2; j++ ){printf("*");}
 		printf("\n");
-	} 
+	}
+  printf("hellom world\n");
 	return 0;
 }
